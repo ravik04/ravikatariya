@@ -95,7 +95,7 @@ This repository is configured with GitHub Actions for automatic deployment to Gi
 Alternatively, you can manually deploy by:
 1. Going to Settings > Pages
 2. Select the main branch as source
-3. Your site will be live at `https://yourusername.github.io/repository-name`
+3. Your site will be live at `https://ravik04.github.io/Portfolio-ravi`
 
 ### Netlify
 
