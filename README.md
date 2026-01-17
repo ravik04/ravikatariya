@@ -80,12 +80,22 @@ Add new project cards in the projects section:
 
 ## Deployment
 
-### GitHub Pages
+### GitHub Pages (Automated)
 
-1. Push your code to a GitHub repository
-2. Go to Settings > Pages
-3. Select the main branch as source
-4. Your site will be live at `https://yourusername.github.io/repository-name`
+This repository is configured with GitHub Actions for automatic deployment to GitHub Pages.
+
+**Setup Instructions:**
+1. Push your code to a GitHub repository (already done for this repo)
+2. Go to your repository Settings > Pages
+3. Under "Build and deployment", set Source to **GitHub Actions**
+4. The site will automatically deploy on every push to the main branch
+5. Your site will be live at `https://ravik04.github.io/Portfolio-ravi`
+
+**Manual Deployment:**
+Alternatively, you can manually deploy by:
+1. Going to Settings > Pages
+2. Select the main branch as source
+3. Your site will be live at `https://yourusername.github.io/repository-name`
 
 ### Netlify
 
