@@ -42,7 +42,7 @@ body {
     background: rgba(10, 14, 39, 0.95);
     backdrop-filter: blur(10px);
     z-index: 1000;
-    padding: 1rem 0;
+    padding: 0.6rem 0;
     transition: all 0.3s ease;
     border-bottom: 1px solid var(--border-color);
 }
@@ -132,7 +132,7 @@ body {
     align-items: center;
     justify-content: center;
     position: relative;
-    padding-top: 80px;
+    padding-top: 70px;
     background: linear-gradient(135deg, var(--primary-bg) 0%, var(--secondary-bg) 100%);
     overflow: hidden;
 }
